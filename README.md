@@ -1,2 +1,3 @@
-# MICGAME_murmur
-MICGAME Murmur Installer
+# MICGAME Murmur Installer
+
+More info at: [https://free.micgame.net](https://free.micgame.net)
